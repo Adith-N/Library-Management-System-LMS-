@@ -13,6 +13,8 @@ CREATE TABLE IF NOT EXISTS books (
     rating DECIMAL(3, 1)
 );
 
+{Allows the librarian or an admin to manually add more books to the database if required or in case of a breakdown}
+
 INSERT INTO books VALUES ('To Kill a Mockingbird', 'Fiction', 4.3);
 INSERT INTO books VALUES ('1984', 'Science Fiction', 4.5);
 INSERT INTO books VALUES ('The Great Gatsby', 'Classics', 4.6);
