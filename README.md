@@ -1,1 +1,1 @@
-This project was made for the finals as a CS practical project.
+This project was made for my school finals as a CS practical project.
