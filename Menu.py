@@ -274,5 +274,3 @@ def liba():
                 else:
                     print('INCORRECT CHOICE |PLEASE RETRY|')
                     mainmenu()
-'''=====TEMP FIELD====='''
-user='Keyston'
